@@ -1,0 +1,4 @@
+.DS_Store
+.ipynb_checkpoints/
+dataframe.csv
+dataframe_all_timestamps.csv
