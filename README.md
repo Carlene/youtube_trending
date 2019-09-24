@@ -1,7 +1,10 @@
-Capstone ideas:
+Capstone top idea:
 
 1) Times/Days trending videos start trending in the US
-I can ask when's the best time to upload, what the average time between uploading and trending starts, if there's a common length of the videos, and/or which category of video is best to make if you want a trending video
+I can ask when's the best time to upload, what the average time between uploading and trending starts, if there's a common length of the videos, and/or which category of video is best to make if you want a trending video.
+
+
+Other possible ideas:
 
 2) Look at how many trending videos have a topic in common. I can check the tags, channel names, titles, description
 
