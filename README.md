@@ -1,13 +1,4 @@
-Capstone top idea:
 
-1) Times/Days trending videos start trending in the US
-I can ask when's the best time to upload, what the average time between uploading and trending starts, if there's a common length of the videos, and/or which category of video is best to make if you want a trending video.
+My capstone project is about the correlation between trending videos and the creator who made them. 
 
-
-Other possible ideas:
-
-2) Look at how many trending videos have a topic in common. I can check the tags, channel names, titles, description
-
-3) Do trending videos tend to be from the same creator is there a more diverse pool? It seems obvious that popular people will tend to have more trending videos, but how easy is it for someone who doesn't have many subs to get a trending video (would have to look at info outside the data, might be unfeasible)
-
-4) There are a couple of major spikes and dips in trending videos, how do YouTube outages/algorithim changes affect amount of trending videos the days/weeks after?
+I believed trending videos would be from the same biggest channels, and fewer than half of all US creators would have only one trending video. But I wanted to know for sure: do trending videos tend to be from the same creators or is there a more diverse pool than I thought? 
