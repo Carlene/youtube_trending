@@ -1,4 +1,4 @@
 
-My capstone project looks at creators with multiple trending videos vs. creators who only have one.
+With my capstone, I wanted to focus on the channels in the trending videos data. How many channels had multiple trending videos, how many of them only had one? Who are the top creators? And is it more likely for the channels with more trending videos to have more views on average on those videos than the rest?
 
-I believed trending videos would be from the same biggest channels, and fewer than half of all US creators would have only one trending video. But I wanted to know for sure: do trending videos tend to be from the same creators or is there a more diverse pool than I thought? And how do the view counts for the multi-trending creators compare to those who have one trending video?
+I focused on the United States for this poject. I visualized the view counts across channels with different amount of trending videos. I made plots that show the top ten channels with the highest amount of trending videos. I compared the channels that had multiple trending videos to the channels that only had one.
